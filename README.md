@@ -1,2 +1,3 @@
-# Python-Intro
- Introduction to Python Programming
+# Introduction to Python Programming
+I have placed my assignments in this repository.
+This course is an introduction to the field of data science and the skills required to be a data scientist. The course explores the basics of data science including: vocabulary, common programming languages, data visualization, presentations, data analysis, the history of information, data ethics, and the data science process. Students should have a better understanding of how they generate data and how data science impacts them as a consumer of this information. Prior programming experience is not needed for this course.
